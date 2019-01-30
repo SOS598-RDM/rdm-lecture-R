@@ -1,5 +1,5 @@
 ---
-title: "Reproducible research from project inception through publication: best practices for managing research data"
+title: "a brief introduction to R"
 subtitle: FALSE
 author: FALSE
 date: "2019-02-08"
@@ -13,7 +13,6 @@ output:
       countIncrementalSlides: false
 ---
 
----
 background-image: url(https://media.giphy.com/media/3orif8zlUQh32KTURy/giphy.gif)
 background-position: 50% 50%
 background-size: 50%
@@ -58,7 +57,7 @@ Some things are more cumbersome via code but you will save time in the long run.
 
 ---
 
-What is R?
+#### What is R?
 
 R is a *programming language designed for statistical computing*. Notable characteristics include:
 * vast capabilities, wide range of statistical and graphical techniques
@@ -71,7 +70,7 @@ R is a *programming language designed for statistical computing*. Notable charac
 
 ---
 
-the utility of R
+#### the utility of R
 
 R is incredibly powerful in itself, but the utility of this language has grown phenomenally through the development of packages. 
 
