@@ -53,7 +53,7 @@ x <- factor(c("single", "married", "married", "single"))
 x <- factor(c("single", "married", "married", "single"), 
             levels = c("single", "married", "divorced"))
 
-6. data frame: two dimensional group of R vectors
+6. data frame: a list of vectors of equal length
 
 n <- c(2, 3, 5) 
 n <- c(2, "three", 5) 
